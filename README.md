@@ -3,3 +3,5 @@ Bacterial growth is modeled using continued fraction of straight lines. doi: [10
 The data (bactgrowth.txt) can be found [here](https://github.com/tpetzoldt/growthrates/tree/master/data)
 
 The code and estimations for models $N,N^{II},N^{III}$ and $N^{IV}$ are provided.
+
+Alternatively, one can also use the a-m-kinetics repository to model bacterial growth.
